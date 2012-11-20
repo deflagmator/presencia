@@ -87,7 +87,7 @@ public class datos_usuario extends JFrame {
 	private JTable disfrute_horas_extras_table;
 
 	/**
-	 * Launch the application.test
+	 * Launch the application.test 2	
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
